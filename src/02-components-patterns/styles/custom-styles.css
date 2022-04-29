@@ -26,3 +26,19 @@
     color: white;
     border-color: white;
 }
+
+.shopping-cart {
+    position: fixed;
+    right: 10px;
+    top: 0px;
+}
+
+.mt-5 {
+    margin-top: 25px;
+}
+
+.products-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
