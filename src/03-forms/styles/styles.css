@@ -24,3 +24,9 @@ span,
 .has-error {
     border: 1px solid red;
 }
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
